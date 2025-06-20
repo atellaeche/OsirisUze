@@ -1,4 +1,5 @@
 # OSIRIS - Lord of Silence
+<img src="assets/Main.png" alt="Main" width="400" />
 
 ## Presentation
 
@@ -7,7 +8,10 @@ with room for improvements (see To Do section)
   
 ## Gameplay
 
-The gameplay 
+The gameplay is pretty simple. the main character (which moves fast and only stops against walls.. :-) ) needs to reach the maze exit, 
+without falling into any traps...
+
+<img src="assets/Level1.png" alt="Level1" width="400" />
 
 ## Author/s
 
