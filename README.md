@@ -29,4 +29,7 @@ These are:
 - Add a time counter for completing the levels
 - Add more variety of elements in mazes (moving enemies, extra lives,...)
 - Points and elements to collect.
+
+## License
+This game is published under GPL v3.0 License. Please check LICENSE file in the repository for more details.
   
